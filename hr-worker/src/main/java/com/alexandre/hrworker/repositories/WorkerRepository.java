@@ -7,5 +7,6 @@ import com.alexandre.hrworker.entities.Worker;
 
 @Repository
 public interface WorkerRepository extends JpaRepository<Worker, Long>{
+
 	
 }
